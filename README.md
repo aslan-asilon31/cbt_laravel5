@@ -74,8 +74,4 @@ Untuk login sebagai guru silahkan gunakan email: <b>admin@ayosinau.com</b>, pass
 
 [![TiXam Video Installation](https://img.youtube.com/vi/3IblPpFb0_Y/0.jpg)](https://www.youtube.com/watch?v=3IblPpFb0_Y)
 
-## Info Tambahan
 
-Aplikasi ini bersifat terbuka, siapapun dipersilahkan untuk menjadi kontributor untuk meningkatkan kualitas aplikasi ini.
-
-Buat yang telah berhasil menggunakan, jangan lupa untuk kasih bintang ya supaya aplikasi kita ini semakin dikenal luas dan membawa manfaat lebih banyak lagi bagi dunia pendidikan kita.
